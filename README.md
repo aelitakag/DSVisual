@@ -11,4 +11,6 @@ Hash Table (Based on a Test Question)
 Reconstructing a Binary Search Tree (BST) from Preorder Traversal
 
 The goal is to create clear and concise representations to illustrate their behavior and functionality.
-link to Colab: https://colab.research.google.com/drive/1ptxzuLXLvPXPOSF38IK9TjlysyIIBHUH?usp=sharing
+
+link to Colab:  https://colab.research.google.com/drive/1ptxzuLXLvPXPOSF38IK9TjlysyIIBHUH?usp=sharing
+Link to the video: 
