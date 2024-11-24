@@ -13,4 +13,4 @@ Reconstructing a Binary Search Tree (BST) from Preorder Traversal
 The goal is to create clear and concise representations to illustrate their behavior and functionality.
 
 link to Colab:  https://colab.research.google.com/drive/1ptxzuLXLvPXPOSF38IK9TjlysyIIBHUH?usp=sharing
-Link to the video: 
+Link to the video: https://1drv.ms/v/c/ea2d2f1de6b2dbc5/ESr09b6LJvNGmYxg0QPEfNIBfAId7evks2t-FSEMQpm0-Q?e=N3lY1y 
